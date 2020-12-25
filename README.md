@@ -1,89 +1,89 @@
-Developer создал приложение AMtrend app, как бесплатное приложение. Это приложение предоставляется бесплатно и предназначено для использования «как есть».
+Developer has created AMtrend app as a free app.  This application is provided free of charge and is intended to be used “as is”.
 
-Эта страница используется для информирования посетителей о нашей политике в отношении сбора, использования и раскрытия Личной информации, если кто-либо решил использовать наше приложение.
+This page is used to inform visitors about our policies regarding the collection, use and disclosure of Personal Information if anyone decides to use our application.
 
-Если вы решите использовать наше приложение, вы соглашаетесь на сбор и использование информации в отношении этой политики. Личная информация, которую мы собираем, используется для предоставления и улучшения приложения. Мы не будем использовать или передавать вашу информацию кому-либо, кроме случаев, описанных в настоящей Политике конфиденциальности.
+If you choose to use our application, you agree to the collection and use of information in relation to this policy.  The personal information we collect is used to provide and improve the app.  We will not use or share your information with anyone, except as described in this Privacy Policy.
 
-Термины, используемые в настоящей Политике конфиденциальности, имеют то же значение, что и в наших Положениях и условиях, которые доступны в приложении AMtrend app, если иное не определено в настоящей Политике конфиденциальности.
+The terms used in this Privacy Policy have the same meaning as in our Terms and Conditions, which are available in the AMtrend app, unless otherwise defined in this Privacy Policy.
 
-Сбор и использование информации
+Collection and use of information
 
-Для лучшего опыта при использовании нашего приложения мы можем потребовать от вас предоставить нам определенную личную информацию, включая, помимо прочего, имя и номер телефона. Информация, которую мы запрашиваем, будет храниться нами и использоваться, как описано в этой политике конфиденциальности.
+For a better experience when using our application, we may require you to provide us with certain personally identifiable information, including but not limited to your name and phone number.  The information we request will be stored by us and used as described in this privacy policy.
 
-Приложение использует сторонние сервисы, которые могут собирать информацию, используемую для вашей идентификации.
+The app uses third party services that may collect information used to identify you.
 
-Ссылка на политику конфиденциальности сторонних поставщиков услуг, используемых приложением
+Link to privacy policies of third party service providers used by the application
 
-Сервисы Google Play(https://policies.google.com/privacy)
+Google Play Services (https://policies.google.com/privacy)
 
-Данные журнала
+Log data
 
-Мы хотим сообщить вам, что всякий раз, когда вы используете наше приложение, в случае ошибки в приложении мы собираем данные и информацию (через сторонние продукты) на вашем телефоне, называемые данными журнала. Эти данные журнала могут включать такую информацию, как IP-адрес вашего устройства, имя устройства, версия операционной системы, конфигурация приложения при использовании нашего приложения, время и дата использования вами приложения и другие статистические данные. .
+We want to inform you that whenever you use our application, in the event of an error in the application, we collect data and information (through third party products) on your phone called log data.  This log data may include information such as your device's IP address, device name, operating system version, application configuration when using our application, the time and date you used the application, and other statistics.  ...
 
 Cookie
 
-Файлы cookie - это файлы с небольшим объемом данных, которые обычно используются в качестве анонимных уникальных идентификаторов. Они отправляются в ваш браузер с веб-сайтов, которые вы посещаете, и хранятся во внутренней памяти вашего устройства.
+Cookies are small data files that are commonly used as anonymous unique identifiers.  They are sent to your browser from the websites you visit and are stored in your device's internal memory.
 
-Этот Сервис не использует эти «куки» явно. Однако приложение может использовать сторонний код и библиотеки, которые используют файлы cookie для сбора информации и улучшения своих услуг. У вас есть возможность принять или отклонить эти файлы cookie и узнать, когда файл cookie отправляется на ваше устройство. Если вы решите отказаться от наших файлов cookie, возможно, вы не сможете использовать некоторые части этой Услуги.
+This Service does not explicitly use these "cookies".  However, the app may use third party code and libraries that use cookies to collect information and improve its services.  You have the option to accept or decline these cookies and to know when a cookie is being sent to your device.  If you choose to refuse our cookies, you may not be able to use some parts of this Service.
 
-Поставщики услуг
+Service providers
 
-Мы можем нанимать сторонние компании и частных лиц по следующим причинам:
+We may hire third party companies and individuals for the following reasons:
 
-Для облегчения нашего приложения;
-Для предоставления приложения от нашего имени;
-Для оказания услуг, связанных с приложением; или же
-Чтобы помочь нам в анализе использования нашего приложения.
-Мы хотим проинформировать пользователей этого приложения о том, что эти третьи стороны имеют доступ к вашей Личной информации. Причина в том, чтобы выполнять поставленные перед ними задачи от нашего имени. Однако они обязаны не раскрывать и не использовать информацию для каких-либо других целей.
+To facilitate our application;
+To provide an application on our behalf;
+To provide services related to the application;  or
+To help us analyze the use of our application.
+We want to inform the users of this application that these third parties have access to your Personal Information.  The reason is to carry out the tasks assigned to them on our behalf.  However, they are required not to disclose or use the information for any other purpose.
 
-Безопасность
+Safety
 
-Мы ценим ваше доверие к предоставлению нам вашей личной информации, поэтому мы стремимся использовать коммерчески приемлемые средства ее защиты. Но помните, что ни один метод передачи через Интернет или метод электронного хранения не является на 100% безопасным и надежным, и мы не можем гарантировать его абсолютную безопасность.
+We value your trust in providing us with your personal information, therefore we strive to use commercially acceptable means to protect it.  But remember that no method of transmission over the Internet or method of electronic storage is 100% secure or reliable, and we cannot guarantee its absolute security.
 
-Ссылки на другие сайты
+Links to other sites
 
-Это приложение может содержать ссылки на другие сайты. Если вы нажмете на стороннюю ссылку, вы будете перенаправлены на этот сайт. Обратите внимание, что эти внешние сайты не управляются нами. Поэтому мы настоятельно рекомендуем вам ознакомиться с Политикой конфиденциальности этих веб-сайтов. Мы не контролируем и не несем ответственности за содержание, политику конфиденциальности или действия любых сторонних сайтов или служб.
+This application may contain links to other sites.  If you click on a third party link, you will be redirected to that site.  Please note that these external sites are not operated by us.  Therefore, we strongly recommend that you read the Privacy Policy of these websites.  We do not control and are not responsible for the content, privacy policies or actions of any third party sites or services.
 
-Конфиденциальность детей
+Children's privacy
 
-Эти Услуги не предназначены для лиц младше 13 лет. Мы сознательно не собираем личную информацию от детей младше 13 лет. В случае, если мы обнаруживаем, что ребенок младше 13 лет предоставил нам личную информацию, мы немедленно удаляем ее с наших серверов. Если вы являетесь родителем или опекуном и знаете, что ваш ребенок предоставил нам личную информацию, свяжитесь с нами, чтобы мы могли предпринять необходимые действия.
+These Services are not directed to individuals under the age of 13.  We do not knowingly collect personally identifiable information from children under the age of 13.  In the event that we discover that a child under the age of 13 has provided us with personal information, we will immediately remove it from our servers.  If you are a parent or guardian and you know that your child has provided us with personal information, please contact us so we can take the necessary action.
 
-Изменения в настоящей Политике конфиденциальности
+Changes to this Privacy Policy
 
-Мы можем время от времени обновлять нашу Политику конфиденциальности. Таким образом, вам рекомендуется периодически просматривать эту страницу на предмет изменений. Мы уведомим вас о любых изменениях, разместив новую Политику конфиденциальности на этой странице.
+We may update our Privacy Policy from time to time.  Therefore, you are encouraged to periodically review this page for changes.  We will notify you of any changes by posting a new Privacy Policy on this page.
 
-Эта политика действует с 2020-12-25.
+This policy is valid from 2020-12-25.
 
-Положения и условия
+Terms and conditions
 
-При загрузке или использовании приложения эти условия будут автоматически применяться к вам - поэтому вы должны внимательно прочитать их перед использованием приложения. Вам не разрешается копировать или изменять приложение, любую его часть или наши торговые марки каким-либо образом. Вам не разрешается пытаться извлечь исходный код приложения, и вам также не следует пытаться переводить приложение на другие языки или создавать производные версии. Само приложение и все связанные с ним товарные знаки, авторские права, права на базы данных и другие права интеллектуальной собственности по-прежнему принадлежат Developer.
+When you download or use the app, these terms will automatically apply to you - so you should read them carefully before using the app.  You are not allowed to copy or modify the application, any part of it or our trademarks in any way.  You are not allowed to attempt to check out the source code of the application, and you should also not attempt to translate the application into other languages ​​or create derivative versions.  The application itself and all associated trademarks, copyrights, database rights, and other intellectual property rights remain with Developer.
 
-Developer стремится к тому, чтобы приложение было максимально полезным и эффективным. По этой причине мы оставляем за собой право вносить изменения в приложение или взимать плату за его услуги в любое время и по любой причине. Мы никогда не будем взимать с вас плату за приложение или его услуги, если вам не ясно, за что вы платите.
+Developer strives to make the application as useful and efficient as possible.  For this reason, we reserve the right to make changes to the application or charge a fee for its services at any time and for any reason.  We will never charge you for an app or its services if it is not clear to you what you are paying for.
 
-Приложение AMtrend app хранит и обрабатывает личные данные, которые вы нам предоставили, для предоставления нашей Услуги. Вы несете ответственность за обеспечение безопасности вашего телефона и доступа к приложению. Поэтому мы рекомендуем вам не делать джейлбрейк или root-доступ, поскольку это процесс снятия программных ограничений и ограничений, налагаемых официальной операционной системой вашего устройства. Это может сделать ваш телефон уязвимым для вредоносных программ / вирусов / вредоносных программ, поставить под угрозу функции безопасности вашего телефона и может означать, что приложение AMtrend не будет работать должным образом или вообще не будет работать.
+The AMtrend app stores and processes the personal data that you have provided to us in order to provide our Service.  You are responsible for keeping your phone and application secure.  Therefore, we recommend that you do not jailbreak or root access, as this is the process of removing software restrictions and restrictions imposed by the official operating system of your device.  This could leave your phone vulnerable to malware / viruses / malware, compromise your phone's security features, and could mean that the AMtrend app won't work properly or won't work at all.
 
-Приложение использует сторонние сервисы, которые декларируют свои собственные Условия использования.
+The app uses third party services that declare their own Terms of Service.
 
-Ссылка на Условия использования сторонних поставщиков услуг, используемых приложением
+Link to Terms of Service of third party service providers used by the application
 
-Сервисы Google Play(https://policies.google.com/terms)
+Google Play Services (https://policies.google.com/terms)
 
-Вы должны знать, что есть определенные вещи, за которые AMtrend не несет ответственности. Некоторые функции приложения потребуют активного подключения к Интернету. Соединение может быть Wi-Fi или предоставлено вашим провайдером мобильной сети, но Developer не может нести ответственность за то, что приложение не работает в полном объеме, если у вас нет доступа к Wi-Fi, и у вас нет ни одного из своих оставшиеся данные.
+You should be aware that there are certain things that AMtrend is not responsible for.  Some features of the app will require an active internet connection.  The connection can be Wi-Fi or provided by your mobile network provider, but the Developer cannot be held responsible for the app not working fully if you don't have Wi-Fi access and you don't have any of your leftover data  ...
 
-Если вы используете приложение за пределами зоны с Wi-Fi, вы должны помнить, что условия соглашения с вашим оператором мобильной связи по-прежнему будут применяться. В результате ваш мобильный провайдер может взимать с вас плату за передачу данных в течение всего времени соединения при доступе к приложению или другие сборы третьих лиц. Используя приложение, вы принимаете на себя ответственность за любые такие расходы, включая плату за передачу данных в роуминге, если вы используете приложение за пределами своей родной территории (т. Е. Региона или страны), не отключая роуминг данных. Если вы не являетесь плательщиком счета за устройство, на котором используете приложение,
+If you are using the app outside of a Wi-Fi zone, you must remember that the terms of your mobile operator agreement will still apply.  As a result, your mobile provider may charge you data transfer fees for the entire connection time when accessing the app or other third party fees.  By using the app, you accept responsibility for any such charges, including data roaming charges, if you use the app outside of your home territory (i.e., Region or country) without disabling data roaming.  If you are not the payer of the bill for the device on which you are using the application,
 
-Аналогичным образом Developer не всегда может взять на себя ответственность за то, как вы используете приложение, т.е. вам необходимо убедиться, что ваше устройство остается заряженным - если у него заканчивается заряд батареи и вы не можете включить его для использования приложения, Developer не берёт на себя ответственность.
+Likewise, the Developer cannot always take responsibility for how you use the application, i.e.  you need to make sure your device stays charged - if it runs out of battery power and you can't turn it on to use the app, Developer accepts no responsibility.
 
-Что касается ответственности Developer за использование вами приложения, при использовании приложения важно помнить, что, хотя мы стремимся обеспечить его постоянное обновление и исправление, мы полагаемся на третьи стороны в предоставлении информацию для нас, чтобы мы могли предоставить ее вам. Developer не несет ответственности за любые убытки, прямые или косвенные, которые вы понесли в результате того, что полностью полагались на эту функциональность приложения.
+Regarding Developer's responsibility for your use of the app, it is important to remember when using the app that while we strive to keep it updated and corrected, we rely on third parties to provide information to us so that we can provide it to you.  Developer is not responsible for any damages, direct or indirect, that you suffer as a result of relying entirely on this application functionality.
 
-В какой-то момент мы можем захотеть обновить приложение. В настоящее время приложение доступно для Android - требования к системе (и для любых дополнительных систем, на которые мы решим расширить доступность приложения) могут измениться, и вам необходимо загрузить обновления, если вы хотите продолжать использовать приложение. Developer не обещает, что всегда будет обновлять приложение, чтобы оно было актуальным для вас и / или работало с версией Android, установленной на вашем устройстве. Однако вы обещаете всегда принимать обновления приложения, когда они предлагаются вам. Мы также можем прекратить предоставление приложения, и может прекратить его использование в любое время без уведомления вас о прекращении. Если мы не сообщим вам иное, при любом расторжении (а) права и лицензии, предоставленные вам в соответствии с настоящими условиями, прекратятся; (б) вы должны прекратить использование приложения и (при необходимости) удалить его со своего устройства.
+At some point, we may want to update the application.  The app is currently available for Android - the system requirements (and for any additional systems that we decide to expand the app's availability to) are subject to change and you need to download updates if you want to continue using the app.  Developer does not promise that it will always update the app to keep it up to date with you and / or work with the version of Android installed on your device.  However, you promise to always accept app updates when they are offered to you.  We may also stop providing the application, and may stop using it at any time without notifying you of the termination.  Unless we notify you otherwise, any termination (a) will terminate the rights and licenses granted to you under these terms;  (b) you must stop using the application and (if necessary) uninstall it from your device.
 
-Изменения в настоящих Условиях использования
+Changes to these Terms of Use
 
-Мы можем время от времени обновлять наши Условия. Таким образом, вам рекомендуется периодически просматривать эту страницу на предмет изменений. Мы уведомим вас о любых изменениях, разместив новые Условия использования на этой странице.
+We may update our Terms from time to time.  Therefore, you are encouraged to periodically review this page for changes.  We will notify you of any changes by posting the new Terms of Service on this page.
 
-Эти условия действуют с 25 декабря 2020 г.
+These conditions are valid from December 25, 2020.
 
-Связаться с нами
+Contact us
 
-Если у вас есть какие-либо вопросы или предложения относительно нашей Политики конфиденциальности, не стесняйтесь обращаться к нам по адресу admin@amtrend(dot)ru.
+If you have any questions or suggestions regarding our Privacy Policy, do not hesitate to contact us at admin@amtrend(dot)ru.
