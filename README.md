@@ -16,6 +16,10 @@ Link to privacy policies of third party service providers used by the applicatio
 
 Google Play Services (https://policies.google.com/privacy)
 
+Google Analytics for Firebase (https://firebase.google.com/policies/analytics)
+
+Firebase Crashlytics (https://firebase.google.com/support/privacy/)
+
 Log data
 
 We want to inform you that whenever you use our application, in the event of an error in the application, we collect data and information (through third party products) on your phone called log data.  This log data may include information such as your device's IP address, device name, operating system version, application configuration when using our application, the time and date you used the application, and other statistics.  ...
@@ -52,7 +56,7 @@ Changes to this Privacy Policy
 
 We may update our Privacy Policy from time to time.  Therefore, you are encouraged to periodically review this page for changes.  We will notify you of any changes by posting a new Privacy Policy on this page.
 
-This policy is valid from 2020-12-25.
+This policy is valid from 2021-01-02.
 
 Terms and conditions
 
@@ -68,6 +72,10 @@ Link to Terms of Service of third party service providers used by the applicatio
 
 Google Play Services (https://policies.google.com/terms)
 
+Google Analytics for Firebase (https://firebase.google.com/terms/analytics)
+
+Firebase Crashlytics (https://firebase.google.com/terms/crashlytics)
+
 You should be aware that there are certain things that AMtrend is not responsible for.  Some features of the app will require an active internet connection.  The connection can be Wi-Fi or provided by your mobile network provider, but the Developer cannot be held responsible for the app not working fully if you don't have Wi-Fi access and you don't have any of your leftover data  ...
 
 If you are using the app outside of a Wi-Fi zone, you must remember that the terms of your mobile operator agreement will still apply.  As a result, your mobile provider may charge you data transfer fees for the entire connection time when accessing the app or other third party fees.  By using the app, you accept responsibility for any such charges, including data roaming charges, if you use the app outside of your home territory (i.e., Region or country) without disabling data roaming.  If you are not the payer of the bill for the device on which you are using the application,
@@ -82,7 +90,7 @@ Changes to these Terms of Use
 
 We may update our Terms from time to time.  Therefore, you are encouraged to periodically review this page for changes.  We will notify you of any changes by posting the new Terms of Service on this page.
 
-These conditions are valid from December 25, 2020.
+These conditions are valid from January 02, 2021.
 
 Contact us
 
